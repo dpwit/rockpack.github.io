@@ -1,6 +1,6 @@
 # rockpack.github.io
 
-## Introduction
+## Introduction to Rockpack
 
 Rockpack is just like Create react App (where it bundles the basic components in one, easy to run package), only better. It still simplifies setting up a React app but it also has a number of additional features already included such as Webpack, server-side rendering, bundling, linting and testing.
 
@@ -11,9 +11,7 @@ One of the good things about Rockpack is the fact that it has a 'modular archite
 ### Modules
 
 [@rockpack/compiler](#compiler)
-
-- @rockpack/compiler
-- @rockpack/ussr
+[@rockpack/ussr](#server-side-rendering)
 - @rockpack/tester
 - @rockpack/codestyle
 - @rockpack/logger
@@ -29,3 +27,7 @@ To use this module simply run the following in Terminal or Command Prompt...
 ```
 npm install @rockpack/compiler --save-dev
 ```
+
+### server side rendering
+####@rockpack/ussr
+
