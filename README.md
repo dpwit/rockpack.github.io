@@ -17,6 +17,6 @@ One of the good things about Rockpack is the fact that it has a 'modular archite
 - @rockpack/logger
 - @rockpack/localazer
 
-### The rockpack compiler
+### @rockpack/compiler
 
 This is a Webpack based React bundler that is preconfigured with all the necessary loaders and plugins, using the best practices right out of the box.
