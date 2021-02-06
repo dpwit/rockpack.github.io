@@ -10,8 +10,8 @@ One of the good things about Rockpack is the fact that it has a 'modular archite
 
 ### Modules
 
-[@rockpack/compiler](#compiler)
-[@rockpack/ussr](#server-side-rendering)
+- [@rockpack/compiler](#compiler)
+- [@rockpack/ussr](#server-side-rendering)
 - @rockpack/tester
 - @rockpack/codestyle
 - @rockpack/logger
