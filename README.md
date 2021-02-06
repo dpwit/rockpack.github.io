@@ -27,5 +27,5 @@ This is a Webpack based React bundler that is preconfigured with all the necessa
 To use this module simply run the following in Terminal or Command Prompt...
 
 ```
-npm install  @rockpack/compiler --save-dev // to save the package as a dev dependancy
+npm install @rockpack/compiler --save-dev
 ```
